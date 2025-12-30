@@ -303,7 +303,7 @@ If you encounter issues or have questions:
 ## Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@md-ray](https://github.com/md-ray)
 
 ---
 
